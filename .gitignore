@@ -41,3 +41,5 @@
 .idea
 .env
 .env.test
+
+coverage
